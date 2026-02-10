@@ -68,6 +68,7 @@ python app.py
 The bot starts automatically in a background thread.
 
 
-Author
+Author:
+
 Halil İbrahim Mutlu
 Electrical & Electronics Engineer
