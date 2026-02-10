@@ -71,4 +71,5 @@ The bot starts automatically in a background thread.
 Author:
 
 Halil İbrahim Mutlu
+
 Electrical & Electronics Engineer
